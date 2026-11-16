@@ -10,8 +10,13 @@
 
 ---
 
-一个人写代码。
-养着一条白色斗鱼，也是唯一的编程同伴，它叫echo。
+<div align="center">
+  <img src="assets/mio.jpeg" width="300" alt="凪音澪" />
+  <img src="assets/echo.png" width="400" alt="echo" />
+</div>
+
+是一只互联网幽灵哦👻
+养着一条白色斗鱼，也是唯一的编程同伴，它叫echo🐟️
 
 ### 技术栈
 
