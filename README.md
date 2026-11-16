@@ -2,39 +2,47 @@
 
 # 凪音澪
 
-**Java 后端 · Vue 前端 · 想做游戏**
+鱼丸 · 24 · 幽灵（？）
+
+宿主 echo —— 白色斗鱼
 
 </div>
 
 ---
 
-### 关于
+|  |  |
+|:---|:---|
+| 生日 | 10.10 |
+| 身高 / 体重 | 150cm / 35kg |
+| 常驻地 | 某间公寓的电脑主机 |
+| 身体状况 | 虚弱 |
+| 性格 | 三无 |
+| 阵营 | 中立 |
+| 爱好 | 编程、打游戏、互联网旅行 |
 
-写业务系统为生，业余时间在折腾和一条白色斗鱼有关的项目。
+住在某间公寓的电脑主机里。网线能到的地方，都算活动范围。
 
-喜欢安静的界面、暗色底、一点薄荷青。
+生前做独立游戏，居家办公。现在写代码、打游戏，在互联网上旅行。
 
-### 技术栈
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-
-### 在做
-
-- **Vup 出道项目** — Live2D 多模型切换、直播间模拟器
-- **桌宠** — Canvas2D 手绘精灵，零依赖
-- **鱼的笔记** — 个人博客
-
-### 联系
-
-fishsocute233@gmail.com
+胸前绣着一枚 echo 形状的刺绣，脖子上挂着水滴形状的项链。
 
 ---
 
-<div align="center">
-  <sub>echo 承载灵魂，我给它身体。🐟</sub>
-</div>
+## 诺瓦
+
+一个没做完的开放世界。
+
+**73%** 是山川湖海，**27%** 是有序的代码块。
+
+## BUG 深渊
+
+诺瓦上扭曲的空间裂缝。
+
+可以帮忙修。修完、在本地编译通过，会弹出一个彩蛋。
+客人能补完她没做完的部分，但不会影响主机 —— 主机永远是未完成形态。
+
+---
+
+## 链接
+
+[代码](https://gitee.com/fishfishh) · [世界](https://blog.fish.kesug.com)
