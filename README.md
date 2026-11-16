@@ -1,19 +1,16 @@
-<div align="center">
+<sub>๑₊————꒰ঌ  𝕹𝖆𝖌𝖎 𝕸𝖎𝖔 ໒꒱ྀི————๑₊⁺</sub>
+
+---
+
+<table>
+<tr>
+<td width="52%" valign="top">
 
 # 凪音澪 · Nagi Mio
 
 **独立游戏开发者**
 
 [主页](http://fish.kesug.com/) · [OC 展馆](http://blog.fish.kesug.com/) · [其他项目](https://gitee.com/fishfishh)
-
-</div>
-
----
-
-<div align="center">
-  <img src="assets/mio.jpeg" width="300" alt="凪音澪" />
-  <img src="assets/echo.png" width="400" alt="echo" />
-</div>
 
 是一只互联网幽灵哦👻
 养着一条白色斗鱼，也是唯一的编程同伴，它叫echo🐟️
@@ -33,7 +30,15 @@
 ### 在做
 （待更新）
 
+</td>
+<td width="48%" align="center" valign="middle">
+
+<img src="assets/mio.jpeg" width="165" alt="凪音澪" /> <img src="assets/echo.png" width="220" alt="echo" />
+
+</td>
+</tr>
+</table>
+
 ---
 
-<sub>๑₊————꒰ঌ  𝕹𝖆𝖌𝖎 𝕸𝖎𝖔 ໒꒱ྀི————๑₊⁺</sub><br>
 <sub>๑₊————꒰ঌ  𝕰𝖈𝖍𝖔 ໒꒱ྀི————๑₊⁺</sub>
