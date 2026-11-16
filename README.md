@@ -4,7 +4,7 @@
 
 **独立游戏开发者**
 
-[代码](https://gitee.com/fishfishh) · [世界](https://blog.fish.kesug.com)
+[主页](http://fish.kesug.com/) · [OC 展馆](http://blog.fish.kesug.com/) · [其他项目](https://gitee.com/fishfishh)
 
 </div>
 
